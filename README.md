@@ -23,3 +23,12 @@ Hangman is a classic word guessing game where the player tries to guess a word b
 
 ```bash
 python hangman.py
+```
+## Customization
+
+You can customize the word list in the words.py file by adding or removing words as desired.
+
+## Credits
+Code : Mouadh Hmaidi, Iyed Fouzri
+
+Script : Téja Ayari
